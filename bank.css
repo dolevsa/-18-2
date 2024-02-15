@@ -1,0 +1,8 @@
+body{background-color: rgb(56, 53, 53);}
+h1{
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
+#amount{
+    color: red;
+}
